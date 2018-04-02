@@ -11,7 +11,7 @@ javac Server.java
 java Server <path>
 ```
 
-最后一个参数`<path>` 指定了接收文件存储路径。如`java server /home/download` 表示将下载的文件存储到/home/download这个文件夹下(文件夹要存在)
+最后一个参数`<path>` 指定了接收文件存储路径。如`java Server /home/download` 表示将下载的文件存储到/home/download这个文件夹下(文件夹要存在)
 
 
 
