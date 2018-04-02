@@ -1,5 +1,5 @@
 # simple_server
-用于Xbot的文件传输处理程序
+用于Xbot的文件传输处理程序。目的在于从Android客户端通过无线网络向Xbot传送文件。
 ## 使用步骤
 ### 1.将java文件编译成class文件(需要安装JDK)：
 ```
